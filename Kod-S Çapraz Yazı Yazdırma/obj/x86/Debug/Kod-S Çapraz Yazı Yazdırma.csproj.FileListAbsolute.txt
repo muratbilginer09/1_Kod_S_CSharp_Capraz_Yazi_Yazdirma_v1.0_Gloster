@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Çapraz Yazı Yazdırma\Kod-S Çapraz Yazı Yazdırma\bin\Debug\Kod-S Çapraz Yazı Yazdırma.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Çapraz Yazı Yazdırma\Kod-S Çapraz Yazı Yazdırma\bin\Debug\Kod-S Çapraz Yazı Yazdırma.pdb
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Çapraz Yazı Yazdırma\Kod-S Çapraz Yazı Yazdırma\obj\x86\Debug\Kod-S Çapraz Yazı Yazdırma.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Çapraz Yazı Yazdırma\Kod-S Çapraz Yazı Yazdırma\obj\x86\Debug\Kod-S Çapraz Yazı Yazdırma.pdb
